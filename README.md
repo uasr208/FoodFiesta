@@ -27,9 +27,7 @@ FoodFiesta is a collaborative project aiming to revolutionize the online food or
 
 If you're interested in contributing to FoodFiesta, we welcome your participation! Please refer to the `CONTRIBUTING.md` file for guidelines on workflow, coding style, and pull request submissions.
 
-## License:
 
-This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
 
 ## FoodFiesta App - Features
 
@@ -52,4 +50,3 @@ This document describes the features developed for the FoodFiesta application.
 
 **Additional Notes:**
 
-* (Include any other relevant information about the development process)
