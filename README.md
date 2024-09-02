@@ -31,4 +31,25 @@ If you're interested in contributing to FoodFiesta, we welcome your participatio
 
 This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
 
-**Note:**
+## FoodFiesta App - Features
+
+This document describes the features developed for the FoodFiesta application.
+
+**Features:**
+
+* **User Authentication (feature-user-authentication):**
+    * Description: This feature allows users to register and log in to the app.
+    * Purpose: Facilitates user identification and secure access to app functionalities.
+    * Challenges: (Mention any challenges encountered during development)
+* **Order Tracking (feature-order-tracking):**
+    * Description: This feature provides real-time or estimated order tracking.
+    * Purpose: Enhances user experience by offering order status visibility.
+    * Challenges: (Mention any challenges encountered during development)
+* **Payment System (feature-payment-system):**
+    * Description: This feature enables secure payment processing for food orders.
+    * Purpose: Streamlines transactions and facilitates a seamless user experience.
+    * Challenges: (Mention any challenges encountered during development)
+
+**Additional Notes:**
+
+* (Include any other relevant information about the development process)
