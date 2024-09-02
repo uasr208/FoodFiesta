@@ -1,0 +1,64 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+header {
+  text-align: center;
+  padding: 20px;
+}
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+#search {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+#search input {
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+#search button {
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+#results {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+/* Style for individual restaurant cards */
+.restaurant-card {
+  width: 300px;
+  margin: 10px;
+  border: 1px solid #ccc;
+  padding: 20px;
+}
+
+.restaurant-card img {
+  width: 100%;
+}
+
+.restaurant-card h2 {
+  text-align: center;
+}
+
+.restaurant-card p {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+}
